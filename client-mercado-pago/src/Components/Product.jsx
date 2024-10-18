@@ -10,9 +10,9 @@ export default function Product() {
 
   const [preferenceId, setPreferenceId] = useState(null);
 
-  initMercadoPago('APP_USR-5ba67a6f-01d5-496b-b027-47e29a394849', {
+  initMercadoPago('APP_USR-b30657e4-3ea9-458a-a04a-14cd19f10b61', {
     // En que idioma se hace el boton de pago
-    locale: "es-CO"
+    locale: "es-AR"
 
   });
 
